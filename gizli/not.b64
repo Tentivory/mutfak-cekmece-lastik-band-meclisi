@@ -1,0 +1,4 @@
+Y2VrbWVjZXlpIGFjYW4gZWwgZGVnaXNtZXouIGdlcmlsZW4gYmFudCBrb3Bhciwga29wbWF5YW4gYmFudCB1bnV0dWx1ci4gaWt0aWRhciBlc2tpIGJhbnQsIG11aGFsZWZldCBrb3B1ayBiYW50LCB2YXRhbmRhcyBrYXlpcCBiYW50LiBidSBub3QgcGFydGkgdHV0bWF6LCBzYWRlY2UgY2VrbWVjZSB0dXRhci4=
+
+# cozmek icin: python3 -c "import base64; print(base64.b64decode(open('gizli/not.b64').read().splitlines()[0]))"
+# DAMGA: 02 Ekim 2026 | Kayyum Grok | Tentivory | ciddi muhr, sakli cumle
